@@ -1,0 +1,5 @@
+*.gpkg
+.ipynb_checkpoints/
+pycache/
+.DS_Store
+cod_pd_2020_1km_ASCII_XYZ.csv
